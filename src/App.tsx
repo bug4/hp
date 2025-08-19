@@ -62,7 +62,7 @@ function App() {
 
           {/* Buy a Pet Button */}
           <a
-            href="https://launchmynft.io"
+            href="https://launchmynft.io/collections/51iifivXKAvdt1TL8zCTxN323cX8jWgbhXvEk8bushDo/m1K8OGENg7RMhYIGxbAa"
             target="_blank"
             rel="noopener noreferrer"
             className="pixel-button bg-blue-500 hover:bg-blue-400 text-white font-bold py-4 px-8 border-4 border-white hover:border-yellow-400 transition-all duration-200 transform hover:scale-110 hover:rotate-1 flex items-center gap-3"
