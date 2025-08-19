@@ -72,7 +72,7 @@ function App() {
 
           {/* Buy on Heaven Button */}
           <a
-            href="https://heaven.xyz"
+            href="https://heaven.xyz/token/AmP21W46HDRNUyYyiBpipx5yVuGovkytaAVCw4wNT777"
             target="_blank"
             rel="noopener noreferrer"
             className="pixel-button bg-blue-500 hover:bg-blue-400 text-white font-bold py-4 px-8 border-4 border-white hover:border-yellow-400 transition-all duration-200 transform hover:scale-110 hover:rotate-1 flex items-center gap-3"
